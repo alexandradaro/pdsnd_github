@@ -29,7 +29,10 @@ Statistics results that were displayed includes:
 -The first five individual trip data, if needed and more data if required.
 
 ### Files used
-Include the files used
+Files used includes 3 CSV files containing bikeshare data for Chicago, New york City and Washington.
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
