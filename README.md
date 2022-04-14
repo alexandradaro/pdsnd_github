@@ -35,5 +35,6 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I was able to complete this project by combining what I had learnt during the Udacity course program and by using python documentation. 
+I used google and stackoverflow to search for error codes I encountered and asked for help from colleagues when necessary.
 
