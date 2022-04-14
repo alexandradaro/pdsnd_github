@@ -147,8 +147,8 @@ def trip_duration_stats(df):
     start_time = time.time()
 
     # display total travel time
-    total_travel_time = df['Trip Duration'].sum()
-    minute,seconds =divmod(total_travel_time,60)
+    total_travel_duration = df['Trip Duration'].sum()
+    minute,seconds =divmod(total_travel_duration,60)
     hour,minute=divmod(minute,60)
     days,hour =divmod(hour,24)
     print("The Total travel time: {} day(s) {} hour(s) {} minutes {} secs".format(days,hour,minute,seconds))
